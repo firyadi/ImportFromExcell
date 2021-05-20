@@ -11,3 +11,6 @@ Database Setting
 On file Web.config
 1. DefaultConnection to connect Database: GlobalBORpt
 2. GlobalBOConnection to connect Database: GlobalBO
+
+Store Procedure
+1. gbo_reconcile_func --> Process data
